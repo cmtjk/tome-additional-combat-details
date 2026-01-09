@@ -1,0 +1,14 @@
+long_name = "Additional Combat Details"
+short_name = "additional-combat-details" -- Determines the name of your addon's file.
+for_module = "tome"
+version = {1,7,6}
+addon_version = {1,0,0}
+weight = 9999 -- The lower this value, the sooner your addon will load compared to other addons.
+author = {'Cornelius Matejka', 'cornelius.matejka@cmtjk.de'}
+homepage = "https://github.com/cmtjk/tome-additional-combat-details"
+description = [[Additional Combat Details]] -- A description of your addon.
+tags = {'apewithgrape', 'combat', 'detail', 'details', 'log', 'logs', 'combat detail', 'combat details'} -- tags MUST immediately follow description
+overload = false
+superload = true
+data = false
+hooks = false
