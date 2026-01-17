@@ -8,13 +8,16 @@ The display is intentionally lightweight and lives in the log area so it complem
 
 [b]Features:[/b]
 [list]
-    [*]Shows to-hit-chance for players and enemies: [i](50 + 2,5 * ( attacker_accuracy - defender_defense))[/i]
+    [*]Shows to-hit-chance for players and enemies: [i](50 + 2,5 * (attacker_accuracy - defender_defense))[/i]
 [/list]
 
 Contributions, bug reports, and improvements are welcome at https://github.com/cmtjk/tome-additional-combat-details.
 
 [h2]Version History[/h2]
 [code]
+1.0.1
+- Refine to-hit chance message: include the '%' symbol and display min/max values.
+
 1.0.0
 - Initial release of 'tome-additional-combat-details'.
 [/code]

@@ -15,6 +15,9 @@ Contributions, bug reports, and improvements are welcome at https://github.com/c
 
 == Version History ==
 <code>
+1.0.1
+- Refine to-hit chance message: include the '%' symbol and display min/max values.
+
 1.0.0
 - Initial release of 'tome-additional-combat-details'.
 </code>
